@@ -1,1 +1,3 @@
-
+While(pedir_movimiento){    primero, pedir_movimiento es una funcion (necesita que le pases parametros), segundo
+	mover_personaje
+}
